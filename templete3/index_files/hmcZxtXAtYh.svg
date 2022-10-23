@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg
+        width="24px"
+        height="24px"
+        viewBox="0 0 24 24"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <path d="M14.7071068,13.2928932 L20.7071068,19.2928932 L19.2928932,20.7071068 L13.2928932,14.7071068 L14.7071068,13.2928932 Z M8,0 C12.418278,0 16,3.581722 16,8 C16,12.418278 12.418278,16 8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 Z M8,2 C4.6862915,2 2,4.6862915 2,8 C2,11.3137085 4.6862915,14 8,14 C11.3137085,14 14,11.3137085 14,8 C14,4.6862915 11.3137085,2 8,2 Z" id="path-12"></path>
+          </defs>
+          <g
+            id="Symbols2"
+            stroke="none"
+            stroke-width="1"
+            fill="none"
+            fill-rule="evenodd">
+            <g
+              id="Icon/Searchglass2"
+              transform="translate(-14.000000, -14.000000)">
+              <g
+                id="Color2"
+                transform="translate(14.000000, 14.000000)">
+                <mask id="mask-22" fill="#FFFFFF">
+                    <use href="#path-12"></use>
+                </mask>
+                <use id="Mask2" fill="#FFFFFF" fill-rule="nonzero"></use>
+                <g
+                  id="Color/Grayscale/7002"
+                  mask="url(#mask-22)"
+                  fill="#56585C">
+                    <g
+                      transform="translate(-14.000000, -14.000000)"
+                      id="Swatch2">
+                        <polygon points="0 48 48 48 48 0 0 0"></polygon>
+                    </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </svg>

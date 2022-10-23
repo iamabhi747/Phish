@@ -1,0 +1,16 @@
+
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Blogs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blogs---Child-1440px" transform="translate(-542.000000, -2536.000000)">
+            <g id="Social-Buttons" transform="translate(256.000000, 2536.000000)">
+                <g id="Email-Icon" transform="translate(286.000000, 0.000000)">
+                    <rect id="Mask" fill="#636363" x="0" y="0" width="28" height="28" rx="4"></rect>
+                    <g id="Envelope-Icon" transform="translate(6.000000, 8.000000)" fill="#FFFFFF">
+                        <path d="M0.0124,1.12705185 C0.0054,1.18441481 0,1.2441679 0,1.30348642 L0,10.4296296 C0,11.1518815 0.5352,11.7333333 1.1998,11.7333333 L14.8,11.7333333 C15.4648,11.7333333 16,11.1518815 16,10.4296296 L16,1.30348642 C16,1.2441679 15.9944,1.18441481 15.9874,1.12705185 L9.2374,7.72031605 C8.5344,8.40715062 7.4528,8.40823704 6.75,7.72031605 L0.0124,1.12705185 Z" id="Path"></path>
+                        <path d="M1.1998,0 C1.0406,0 0.8886,0.0343308642 0.75,0.0949530864 L7.55,6.74927407 C7.8454,7.03847901 8.1414,7.0386963 8.4374,6.74927407 L15.25,0.0949530864 C15.111,0.0343308642 14.959,0 14.8,0 L1.1998,0 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

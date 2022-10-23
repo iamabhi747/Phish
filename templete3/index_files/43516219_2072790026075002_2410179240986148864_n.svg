@@ -1,0 +1,14 @@
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Blogs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Blogs---Child-1440px" transform="translate(-506.000000, -2536.000000)">
+            <g id="Social-Buttons" transform="translate(256.000000, 2536.000000)">
+                <g id="RSS-Feed" transform="translate(250.000000, 0.000000)">
+                    <rect id="Rectangle-34" fill="#F88A15" x="0" y="0" width="28" height="28" rx="4"></rect>
+                    <path d="M22.6628,24.6659 C22.6628,13.8249 13.8428,4.9999 3.0038,4.9999 L3.0248,8.9169 C11.6848,8.9289 18.7298,15.9729 18.7458,24.6359 L22.6628,24.6659 Z" id="Fill-1" fill="#FFFFFF"></path>
+                    <path d="M15.9807,24.6659 C15.9807,17.5069 10.1557,11.6829 3.0007,11.6829 L3.0007,15.5999 C7.9977,15.5999 12.0637,19.6669 12.0637,24.6659 L15.9807,24.6659 Z" id="Fill-4" fill="#FFFFFF"></path>
+                    <path d="M5.8655,18.9159 C7.4415,18.9159 8.7195,20.1939 8.7195,21.7699 C8.7195,23.3469 7.4415,24.6239 5.8655,24.6239 C4.2895,24.6239 3.0115,23.3469 3.0115,21.7699 C3.0115,20.1939 4.2895,18.9159 5.8655,18.9159" id="Fill-6" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

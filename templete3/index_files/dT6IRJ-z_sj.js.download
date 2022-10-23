@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("XDeveloperSearchController",["XController"],(function(a,b,c,d,e,f){e.exports=b("XController").create("/search/",{q:{type:"String"},notfound:{type:"Bool",defaultValue:!1},search_filter_option:{type:"Enum",enumType:1},referer:{type:"String",defaultValue:"main_header"}})}),null);

